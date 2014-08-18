@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8ACF8EAC-17AE-4EE3-9343-2BCEECD11AE1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MeetMe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26600CA5-FDEF-4277-9CA2-708D138FFE1C</key>
+		<string>ssh://github.com/ccweaver/MeetMe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MeetMe.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26600CA5-FDEF-4277-9CA2-708D138FFE1C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ccweaver/MeetMe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26600CA5-FDEF-4277-9CA2-708D138FFE1C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26600CA5-FDEF-4277-9CA2-708D138FFE1C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MeetMe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
